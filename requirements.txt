@@ -1,0 +1,4 @@
+jupyter
+nb_black
+lolviz
+jupyter_contrib_nbextensions
